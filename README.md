@@ -8,3 +8,5 @@ Classified type of item from images of 60,000 fashion images belonging to 10 dif
 If you would like a better explanation or solution method, please refer to the ".ipynb" file.
 
 Also, I uploaded the pictures I took with my phone, using predictions to determine
+
+I am sure the results can be improved and i am working on it. Thank you.
